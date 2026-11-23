@@ -1,0 +1,12 @@
+check,result
+Shares with full history,488
+Duplicate dates,0
+Missing Close,0
+Missing Adj Close,0
+Missing Volume,0
+Close <= 0,0
+Adj Close <= 0,0
+Negative volume,0
+Shares with zero-volume days,2
+Split events,61
+Dividend events,6046
