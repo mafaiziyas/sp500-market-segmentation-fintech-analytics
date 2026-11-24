@@ -1,0 +1,9 @@
+Algorithm,Cluster,Shares,Median weekly return,Median weekly beta
+Ward,1,92,0.006,1.218
+Ward,2,184,0.002,1.089
+Ward,3,98,0.004,0.666
+Ward,4,114,0.001,0.57
+K-means,1,41,0.007,1.677
+K-means,2,132,0.001,1.142
+K-means,3,154,0.002,0.577
+K-means,4,161,0.004,0.985
